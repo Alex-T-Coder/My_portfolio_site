@@ -50,4 +50,6 @@ Collaborate with Confidence:
 
 I am committed to delivering results that transcend expectations. Emphasizing effective collaboration, timely communication, and unwavering dedication to project deadlines, let's connect! Explore how I can elevate your success in the blockchain and full-stack development realms.
 
+Thank you.
+
 #Etherem #Solana #Web3 #NFT #DeFi
