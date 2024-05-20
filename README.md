@@ -9,7 +9,7 @@ Why Choose Me?
 
 Crafting Excellence in:
 </br>
-✅ Front-end Alchemy: Design visually enchanting interfaces using React, React Native, Angular, Bootstrap, and Tailwind CSS.</br>
+✅ Front-end Alchemy: Design visually enchanting interfaces using React, Next, React Native, Vue, Nuxt, Angular, Bootstrap, and Tailwind CSS.</br>
 ✅ Back-end Brilliance: Harness server-side logic with Node.js and other technologies for integration and smooth data flow.</br>
 ✅ Database Design Wizardry: Shape efficient and scalable database structures using SQL and NoSQL databases.</br>
 
