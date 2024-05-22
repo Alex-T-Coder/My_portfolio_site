@@ -1,6 +1,7 @@
 🚀 Greetings! I'm a versatile Blockchain Developer with a profound focus on Ethereum and Solana, backed by over a decade of software development expertise. The last 5+ years have seen me pioneering innovations at the forefront of blockchain technology.
 </br>
 Why Choose Me?
+
 </br>
 ✅ Blockchain Mastery: Embark on an innovation journey with a specialist in Ethereum, Solana, and Rust. I craft impactful solutions in smart contract development, DApps, and DeFi protocols.</br>
 ✅ Solana & Rust Expert: Dive into the world of Solana and Rust with confidence. My expertise in these cutting-edge technologies unlocks unparalleled solutions and possibilities.</br>
