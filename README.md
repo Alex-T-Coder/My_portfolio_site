@@ -5,6 +5,7 @@ Why Choose Me?
 
 </br>
 My skills:
+</br>
 ✅ Blockchain Mastery: Embark on an innovation journey with a specialist in Ethereum, Solana, and Rust. I craft impactful solutions in smart contract development, DApps, and DeFi protocols.</br>
 ✅ Solana & Rust Expert: Dive into the world of Solana and Rust with confidence. My expertise in these cutting-edge technologies unlocks unparalleled solutions and possibilities.</br>
 ✅ Web Development Wizardry: Envision stunning front-end and back-end experiences. My toolkit includes HTML5, CSS3, JavaScript, React, React Native, Node.js, and more.</br>
