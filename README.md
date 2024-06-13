@@ -1,4 +1,4 @@
-🚀 Greetings! I'm a versatile Blockchain Developer with a profound focus on Ethereum and Solana, backed by over a decade of software development expertise. The last 5+ years have seen me pioneering innovations at the forefront of blockchain technology.
+🚀 Greetings! I'm a versatile AI and Blockchain Developer with a profound focus on Ethereum and Solana, backed by over a decade of software development expertise. The last 5+ years have seen me pioneering innovations at the forefront of blockchain technology.
 </br>
 
 Why Choose Me?
